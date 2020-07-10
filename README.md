@@ -7,12 +7,16 @@ I'm a Junior Developer at the Legal Aid Agency - Ministry of Justice.
 🌱 My current learning objectives can be found here https://gist.github.com/Obsiye/69bb765bf34971d4d9ef19f6f27d2c70
 
 
+
+
 ⚡ Fun fact:
 I tried standup comedy and had a blast. Maybe I'll give it another go in the future.
 
 I enjoy art 🎨 or any creative expression
 
 I truly believe in the power of day dreaming 💫
+
+![pop_eye_the_sailor_man](https://github.com/Obsiye/Obsiye/blob/master/face_resized.jpg?raw=true)
 
 <!--
 **Obsiye/Obsiye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
