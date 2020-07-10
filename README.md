@@ -9,12 +9,10 @@ I'm a Junior Developer at the Legal Aid Agency - Ministry of Justice.
 
 
 
-⚡ Fun fact:
-I tried standup comedy and had a blast. Maybe I'll give it another go in the future.
+⚡ Fun facts:
+- I enjoy art 🎨 or any creative expression
 
-I enjoy art 🎨 or any creative expression
-
-I truly believe in the power of day dreaming 💫
+- I truly believe in the power of day dreaming 💫
 
 ![pop_eye_the_sailor_man](https://github.com/Obsiye/Obsiye/blob/master/face_resized.jpg?raw=true)
 
