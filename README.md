@@ -11,8 +11,6 @@ My current learning objectives can be found [here 🌱](https://gist.github.com/
 
 - I truly believe in the power of day dreaming 💫
 
-![pop_eye_the_sailor_man](https://github.com/Obsiye/Obsiye/blob/master/face_resized.jpg?raw=true)
-
 #### 📫 How to reach me:
 Coming soon...
 
