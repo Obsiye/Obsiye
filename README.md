@@ -1,6 +1,5 @@
-# Welcome ☕. I'm Abdi.
-
- I'm a Junior Developer at the Legal Aid Agency - Ministry of Justice.
+# Welcome ☕
+ ![alt text](https://github.com/Obsiye/Obsiye/blob/master/yugiohstyleme_final.gif?raw=true)
 
 My current learning objectives can be found [here 🌱](https://gist.github.com/Obsiye/69bb765bf34971d4d9ef19f6f27d2c70)
 
