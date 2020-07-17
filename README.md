@@ -1,5 +1,5 @@
-# Welcome ☕
  ![alt text](https://github.com/Obsiye/Obsiye/blob/master/yugiohstyleme_final.gif?raw=true)
+
 
 My current learning objectives can be found [here 🌱](https://gist.github.com/Obsiye/69bb765bf34971d4d9ef19f6f27d2c70)
 
@@ -11,8 +11,7 @@ My current learning objectives can be found [here 🌱](https://gist.github.com/
 - I truly believe in the power of day dreaming 💫
 
 #### 📫 How to reach me:
-Coming soon...
-
+Twitter 
 
 -----
 <!--
