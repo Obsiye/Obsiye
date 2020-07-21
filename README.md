@@ -1,6 +1,3 @@
- ![alt text](https://github.com/Obsiye/Obsiye/blob/master/yugiohstyleme_final.gif?raw=true)
-
-
 My current learning objectives can be found [here 🌱](https://gist.github.com/Obsiye/69bb765bf34971d4d9ef19f6f27d2c70)
 
 ----
@@ -15,6 +12,8 @@ Twitter
 
 -----
 <!--
+
+ ![alt text](https://github.com/Obsiye/Obsiye/blob/master/yugiohstyleme_final.gif?raw=true)
 **Obsiye/Obsiye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
