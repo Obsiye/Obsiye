@@ -8,7 +8,7 @@ My current learning objectives can be found [here 🌱](https://gist.github.com/
 - I truly believe in the power of day dreaming 💫
 
 #### 📫 How to reach me:
-Twitter 
+[Twitter](https://twitter.com/abdirizakobsiy3) 
 
 -----
 <!--
