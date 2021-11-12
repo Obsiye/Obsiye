@@ -4,7 +4,7 @@
 Hello.
 
 #### 📫 How to reach me:
-[Twitter](https://twitter.com/abdirizakobsiy3) 
+[Twitter](https://twitter.com/whoisabdirizak) 
 
 -----
 <!--
